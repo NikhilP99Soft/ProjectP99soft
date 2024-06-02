@@ -11,7 +11,7 @@ const Footer = () => {
         justifyContent: "space-evenly",
       }}
     >
-      <h1 style={{ marginTop: "30px" }}>Conctact Us On:</h1>
+      <h1 style={{ marginTop: "30px" }}>Conctact Us:</h1>
       <img
         src="src\assets\facebook.png"
         style={{ height: "50px", width: "50px", marginTop: "25px" }}
